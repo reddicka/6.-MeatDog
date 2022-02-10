@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    background-color: rgb(32, 32, 32);
+}
+
+body, html {
+    height: 100%;
+}
+
+.video {
+    
+}
+
+img {
+    height: auto;
+    max-width: 100vw;
+}
+
+.bg {
+    /* The image used */
+    background-image: url("./sex.gif");
+
+    /* Full height */
+    height: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
